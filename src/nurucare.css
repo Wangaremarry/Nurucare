@@ -1,0 +1,21 @@
+.body{
+    background: #310321;
+}
+nav{
+    color:#310321 ;
+  }
+ 
+.nav .nav-list{
+    list-style: none;
+}
+nav .nav-list li{
+    display: inline-block;
+}
+nav .nav-list li a{
+    display: inline-block;
+    color:#310321 ;
+    margin-left: 55px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
